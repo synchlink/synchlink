@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @synchlink
-- 👀 I’m interested in ... Computers, technology, entrepreneurship, gaming, traveling.
-- 🌱 I’m currently learning ... HTML, CSS, Javascript, Kotlin, SEO.
+- 👋 Hi, I’m @synchr0niz3d
+- 👀 I’m interested in ... Cybersecurity (Malware, Infosec, Red Team Enthusiast) Computers, technology, entrepreneurship, gaming, traveling.
+- 🌱 I’m currently learning ... C, Python
 - 💞️ I’m looking to collaborate on ... I'm not quite sure yet.
-- 📫 How to reach me ... Contact me @ discord synchr0niz3d#8550
+- 📫 How to reach me ... Contact me @ discord synchr0niz3d
 
 <!---
 synchlink/synchlink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
